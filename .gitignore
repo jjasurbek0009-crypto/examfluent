@@ -1,0 +1,37 @@
+# Bog'liqliklar (dependencies)
+/node_modules
+/.pnp
+.pnp.js
+
+# Next.js build natijalari
+/.next/
+/out/
+/build
+next-env.d.ts
+
+# Maxfiy kalitlar — BULAR HECH QACHON GitHub'ga tushmasligi kerak!
+.env
+.env*.local
+.env.local
+.env.production
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+
+# Log fayllar
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Tizim fayllari
+.DS_Store
+Thumbs.db
+
+# Muharrir (editor) fayllari
+.idea/
+.vscode/*
+!.vscode/extensions.json
