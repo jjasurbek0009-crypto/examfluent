@@ -171,7 +171,7 @@ Loyiha papkasidagi `.env.local` faylini oching va to'ldiring:
 
 ```env
 NEXT_PUBLIC_SUPABASE_URL=https://abcdefgh.supabase.co
-NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
+NEXT_PUBLIC_SUPABASE_ANON_KEY=your-supabase-anon-key
 GEMINI_API_KEY=AIzaSy...
 GEMINI_MODEL=gemini-3.6-flash
 NEXT_PUBLIC_SITE_URL=http://localhost:3000
